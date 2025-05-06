@@ -32,11 +32,10 @@ Matplotlib/Seaborn: Data visualization.
 # Installation
 -Clone the repository:
 
-bash
 
-``
+```
 git clone https://github.com/Bfma1/Preeclampsia_app.git
-``
+```
 -Navigate to the project directory:
 
 bash
