@@ -38,25 +38,25 @@ git clone https://github.com/Bfma1/Preeclampsia_app.git
 ```
 -Navigate to the project directory:
 
-bash
-``
+
+```
 cd Preeclampsia_app
-``
+```
 
 -Install required dependencies:
 
-bash
-``
+
+```
 pip install -r requirements.txt
-``
+```
 
 -Run the application:
 
-bash
-``
+
+```
 python app.py
 
-``
+```
 
 # Usage
 -Start the app by running the app.py script.
