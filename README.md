@@ -27,7 +27,7 @@ Matplotlib/Seaborn: Data visualization.
 # Dataset
 -Younsi Hospital, Korea: The primary dataset used for training and testing the models.
 
--King Abdullah University Hospital: A merged dataset containing clinical and laboratory data, although the raw dataset cannot be shared due to privacy and confidentiality restrictions.
+-King Abdullah University Hospital, Riyadh, Saudi: A merged dataset containing clinical and laboratory data, although the raw dataset cannot be shared due to privacy and confidentiality restrictions.
 
 # Installation
 -Clone the repository:
